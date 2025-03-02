@@ -1,0 +1,101 @@
+﻿@model IEnumerable<PetManagementSystem.Models.Appointment>
+
+@{
+    ViewBag.Title = "Vet Dashboard";
+}
+<style>
+    body {
+        background-image: url('/images/bgbg.jpg'); /* replace with your desired background image */
+        background-size: cover;
+        font-family: Arial, sans-serif;
+    }
+
+    h2 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .table-container {
+        background-color: lightblue; /* add a white background to the table container */
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f0f0f0;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .btn {
+        margin: 10px;
+    }
+</style>
+
+<h2>Vet Dashboard</h2>
+
+<div class="table-container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Pet</th>
+                <th>Owner</th>
+                <th>Appointment Date</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (var appointment in Model)
+                {
+                    <tr>
+                        <td>@appointment.Pet.Name</td>
+                        <td>@appointment.User.FirstName</td>
+                        <td>@appointment.AppointmentDate.ToString("g")</td>
+                        <td>@(appointment.IsApproved ? "Approved" : "Pending")</td>
+                        <td>
+                            @if (!appointment.IsApproved)
+                            {
+                                <form asp-action="Approve" method="post">
+                                    <input type="hidden" name="id" value="@appointment.AppointmentId" />
+                                    <button type="submit" class="btn btn-success">Approve</button>
+                                </form>
+                                <form asp-action="Disapprove" method="post" style="display:inline;">
+                                    <input type="hidden" name="id" value="@appointment.AppointmentId" />
+                                    <button type="submit" class="btn btn-danger">Disapprove</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <a asp-controller="Prescriptions" asp-action="Create" asp-route-appointmentId="@appointment.AppointmentId" class="btn btn-primary">Give Prescription</a>
+                            }
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <form asp-controller="Users" asp-action="Logout">
+        <button type="submit" class="btn btn-danger">Logout</button>
+    </form>
+</div>

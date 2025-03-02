@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PetManagementSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PetManagementSystem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\add.png",
+      "PackagePath": "staticwebassets\\images\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\images\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\bgbg.jpg",
+      "PackagePath": "staticwebassets\\images\\bgbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\bgg.jpg",
+      "PackagePath": "staticwebassets\\images\\bgg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\bggggg.jpg",
+      "PackagePath": "staticwebassets\\images\\bggggg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\cathome.jpg",
+      "PackagePath": "staticwebassets\\images\\cathome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\catloginbg.jpg",
+      "PackagePath": "staticwebassets\\images\\catloginbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\dsw.jpg",
+      "PackagePath": "staticwebassets\\images\\dsw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\owner.jpg",
+      "PackagePath": "staticwebassets\\images\\owner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\petcathome.jpg",
+      "PackagePath": "staticwebassets\\images\\petcathome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\petowner.jpg",
+      "PackagePath": "staticwebassets\\images\\petowner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\pets.jpg",
+      "PackagePath": "staticwebassets\\images\\pets.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\vet.jpg",
+      "PackagePath": "staticwebassets\\images\\vet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\vetbg.jpg",
+      "PackagePath": "staticwebassets\\images\\vetbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\vetcli.jpg",
+      "PackagePath": "staticwebassets\\images\\vetcli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\vetclid.jpg",
+      "PackagePath": "staticwebassets\\images\\vetclid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\vetg.jpg",
+      "PackagePath": "staticwebassets\\images\\vetg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\images\\wldk.jpg",
+      "PackagePath": "staticwebassets\\images\\wldk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\project finale\\PetManagementSystem\\PetManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PetManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PetManagementSystem.props",
+      "PackagePath": "build\\PetManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PetManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\PetManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PetManagementSystem.props",
+      "PackagePath": "buildTransitive\\PetManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,49 @@
+﻿@model PetManagementSystem.Models.Pet
+
+@{
+    ViewBag.Title = "Add Pet";
+}
+
+<!-- Add this div to display the background image -->
+<div class="background-image" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url('/images/vetg.jpg'); background-size: cover; background-position: center; z-index: -1;"></div>
+
+<div class="container" style="max-width: 500px; margin: 40px auto; padding: 20px; border: 1px solid #ccc; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 10px;">
+    <h2 style="text-align: center; margin-top: 0; color: #fff;">Add Pet</h2>
+    
+    <div class="row">
+        <div class="col-md-12" style="text-align: center;">
+            <div class="pet-form" style="display: inline-block; text-align: left; background-color: lightskyblue; padding: 20px; border: 1px solid #ccc; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 10px;">
+                <form asp-action="Create" method="post">
+                    <div class="form-group">
+                        <label asp-for="Name" style="font-weight: bold;"></label>
+                        <input asp-for="Name" required class="form-control" style="height: 40px; padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 5px;" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Age" style="font-weight: bold;"></label>
+                        <input asp-for="Age" required type="number" class="form-control" style="height: 40px; padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 5px;" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Species" style="font-weight: bold;"></label>
+                        <input asp-for="Species" required class="form-control" style="height: 40px; padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 5px;" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Gender" style="font-weight: bold;"></label>
+                        <input asp-for="Gender" required class="form-control" style="height: 40px; padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 5px;" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Breed" style="font-weight: bold;"></label>
+                        <input asp-for="Breed" required class="form-control" style="height: 40px; padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 5px;" />
+                    </div>
+                    <button type="submit" class="btn btn-primary" style="background-color: #4CAF50; color: #fff; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;">Save</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .form-control:focus {
+        border-color: #ccc;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+</style>

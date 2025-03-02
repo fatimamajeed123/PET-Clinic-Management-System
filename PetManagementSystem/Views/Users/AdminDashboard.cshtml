@@ -1,0 +1,86 @@
+﻿@{
+    ViewBag.Title = "Admin Dashboard";
+}
+
+<style>
+    body {
+        background-image: url('/images/vetclid.jpg'); /* replace with your desired background image */
+        background-size: cover;
+        font-family: Arial, sans-serif;
+    }
+
+    h2 {
+        font-weight: bold;
+        color: #333;
+        text-align: center;
+        margin-bottom: 20px;
+        background-color: cornflowerblue;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .dashboard-container {
+         background-color: skyblue;; /* add a white background to the dashboard container */
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 50%; /* adjust the width as needed */
+        margin: 40px auto; /* center the container */
+        text-align: center;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0 auto;
+        display: inline-block;
+    }
+
+    li {
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    a {
+        text-decoration: none;
+        color: #337ab7;
+    }
+
+        a:hover {
+            color: #23527c;
+        }
+
+    .btn-link {
+        background-color: #337ab7;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+        .btn-link:hover {
+            background-color: #23527c;
+        }
+
+    .btn {
+        margin: 10px;
+    }
+</style>
+
+<div class="dashboard-container">
+    <h2>Admin Dashboard</h2>
+
+    <ul>
+        <li><button class="btn-link" onclick="location.href='@Url.Action("PetOwnersList")'">View Pet Owners</button></li>
+        <li><button class="btn-link" onclick="location.href='@Url.Action("VetsList")'">View Vets</button></li>
+        <li><button class="btn-link" onclick="location.href='@Url.Action("GetPets", "Pets")'">View Pets List</button></li>
+    </ul>
+
+    <div>
+        <form asp-controller="Users" asp-action="Logout">
+            <button type="submit" class="btn btn-danger">Logout</button>
+        </form>
+    </div>
+</div>

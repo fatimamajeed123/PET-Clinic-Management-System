@@ -1,0 +1,63 @@
+﻿@model PetManagementSystem.Models.Prescription
+
+@{
+    ViewBag.Title = "Give Prescription";
+}
+ 
+
+
+<h2 style="color: #333; font-weight: bold; margin-bottom: 20px; background-color: #f0f0f0;">@ViewBag.Title</h2>
+
+<form asp-controller="Prescriptions" asp-action="Create" method="post" class="form-horizontal" style="max-width: 600px; margin: 40px auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="AppointmentId" />
+
+    <div class="form-group">
+        <label for="reasonOfVisit" class="control-label col-md-2" style="font-weight: bold; color: #666;">Reason of Visit</label>
+        <div class="col-md-10">
+            <p id="reasonOfVisit" class="form-control-static" style="font-size: 16px; color: #333;">Vomiting</p>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="MedicationName" class="control-label col-md-2" style="font-weight: bold; color: #666;">Medication Name</label>
+        <div class="col-md-10">
+            <input asp-for="MedicationName" class="form-control" required style="height: 40px; padding: 10px; font-size: 16px; border: 1px solid #ccc;" />
+            <span asp-validation-for="MedicationName" class="text-danger" style="font-size: 14px; color: #red;"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="Dosage" class="control-label col-md-2" style="font-weight: bold; color: #666;">Dosage</label>
+        <div class="col-md-10">
+            <input asp-for="Dosage" class="form-control" required style="height: 40px; padding: 10px; font-size: 16px; border: 1px solid #ccc;" />
+            <span asp-validation-for="Dosage" class="text-danger" style="font-size: 14px; color: #red;"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="Instructions" class="control-label col-md-2" style="font-weight: bold; color: #666;">Instructions</label>
+        <div class="col-md-10">
+            <textarea asp-for="Instructions" class="form-control" rows="4" required style="height: 100px; padding: 10px; font-size: 16px; border: 1px solid #ccc;"></textarea>
+            <span asp-validation-for="Instructions" class="text-danger" style="font-size: 14px; color: #red;"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <button type="submit" class="btn btn-primary" style="background-color: #337ab7; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Prescribe</button>
+        </div>
+    </div>
+</form>
+
+<style>
+    body {
+        background-image: url('/images/petowner.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+</style>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

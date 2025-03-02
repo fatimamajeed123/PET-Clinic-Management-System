@@ -1,0 +1,84 @@
+﻿@model IEnumerable<PetManagementSystem.Models.Pet>
+
+@{
+    ViewBag.Title = "Pets List";
+}
+<style>
+body {
+        background-image: url('/images/vetbg.jpg'); /* replace with your desired background image */
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+        background-color: skyblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.table {
+    width: 100%;
+    margin: 40px auto;
+    border-collapse: collapse;
+        background-color: skyblue; /* make the table background white */
+    border: 1px solid #ddd;
+    border-radius: 10px; /* add rounded edges to the table */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+    font-size: 16px; /* increase font size */
+    font-weight: bold; /* make the font bold */
+}
+
+th {
+    background-color: #f0f0f0;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+</style>
+<h2>Pets List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Pet Name</th>
+            <th>Breed</th>
+            <th>Age</th>
+            <th>Species</th>
+            <th>Gender</th>
+            <th>Owner</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var pet in Model)
+            {
+                <tr>
+                    <td>@pet.Name</td>
+                    <td>@pet.Breed</td>
+                    <td>@pet.Age</td>
+                    <td>@pet.Species</td>
+                    <td>@pet.Gender</td>
+                    <td>@pet.User.FirstName</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

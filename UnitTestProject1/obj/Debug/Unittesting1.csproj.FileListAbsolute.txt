@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\obj\Debug\Unittesting1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\obj\Debug\Unittesting1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\obj\Debug\Unittest.37EC6457.Up2Date
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,127 @@
+﻿@model IEnumerable<PetManagementSystem.Models.Pet>
+
+@{
+    ViewBag.Title = "My Pets";
+}
+
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('/images/wldk.jpg'); /* added background image */
+            background-size: cover;
+            background-position: center;
+        }
+
+        .container {
+            max-width: 1000px; /* increased width */
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #f0f0f0; /* added background color to table */
+        }
+
+            .table th, .table td {
+                border: 1px solid #ddd;
+                padding: 10px;
+                text-align: left;
+            }
+
+            .table th {
+                background-color: aliceblue;
+            }
+
+        .btn {
+            font-size: 18px;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .btn-primary {
+            background-color: lightskyblue;
+            color: #fff;
+        }
+
+            .btn-primary:hover {
+                background-color: #45a049;
+            }
+
+        .btn-danger {
+            background-color: #ff0000;
+            color: #fff;
+        }
+
+            .btn-danger:hover {
+                background-color: #cc0000;
+            }
+
+        .button-group {
+            margin-bottom: 20px; /* added margin to separate buttons from heading */
+            text-align: center; /* added to center the buttons */
+        }
+
+        h2 {
+            text-align: center;
+            font-size: 36px;
+            color: #fff;
+            margin-bottom: 20px;
+            background-color: rgba(0, 0, 0, 0.5); /* added background color to make text more readable */
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+    </nav>
+    @if (ViewBag.IsPetOwner)
+    {
+        <div class="button-group">
+            <a asp-action="Create" class="btn btn-primary">Add Pet</a>
+            <a asp-action="Create" asp-controller="Appointments" class="btn btn-primary">Make Appointment</a>
+            <a asp-action="GetApp" asp-controller="Prescriptions" class="btn btn-primary">View Prescription</a>
+            <a asp-action="Logout" asp-controller="Users" class="btn btn-danger">Logout</a>
+        </div>
+    }
+    <div class="container">
+        <h2>My Pets</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Species</th>
+                    <th>Gender</th>
+                    <th>Breed</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var pet in Model)
+                {
+                    <tr>
+                        <td>@pet.Name</td>
+                        <td>@pet.Age</td>
+                        <td>@pet.Species</td>
+                        <td>@pet.Gender</td>
+                        <td>@pet.Breed</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

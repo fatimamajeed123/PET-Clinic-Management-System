@@ -1,0 +1,95 @@
+﻿@model List<PetManagementSystem.Models.Users>
+<style>
+body {
+    background-image: url('/images/vetbg.jpg'); /* replace with your desired background image */
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+        background-color: skyblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+table {
+    width: 80%;
+    margin: 40px auto;
+    border-collapse: collapse;
+     background-color: skyblue; /* make the table background white */
+    border: 1px solid #ddd;
+    border-radius: 10px; /* add rounded edges to the table */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+    font-size: 16px; /* increase font size */
+    font-weight: bold; /* make the font bold */
+}
+
+th {
+    background-color: #f0f0f0;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.btn {
+    margin: 10px;
+    font-size: 14px; /* decrease font size of the buttons */
+    padding: 5px 10px; /* add some padding to the buttons */
+    border-radius: 5px; /* add rounded edges to the buttons */
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+.admin-dashboard {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+</style>
+<h2 class="centered">Pet Owners</h2>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var petOwner in Model)
+        {
+            <tr>
+                <td>@petOwner.UserID</td>
+                <td>@petOwner.FirstName</td>
+                <td>@petOwner.LastName</td>
+                <td>@petOwner.Email</td>
+                <td>@petOwner.PhoneNo</td>
+                <td>
+                    <a asp-controller="Users" asp-action="EditPetOwner" asp-route-id="@petOwner.UserID" class="btn btn-primary">Edit</a>
+               
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,97 @@
+﻿@{
+    ViewData["Title"] = "Pet Management System";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.ApplicationName</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        body {
+            background-image: url('/images/petowner.jpg'); /* replace with your desired background image */
+            background-size: cover;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: lightskyblue; /* light gray background */
+            padding: 20px;
+            text-align: center;
+        }
+
+            header h1 {
+                font-size: 36px;
+                margin-bottom: 10px;
+            }
+
+            header p {
+                font-size: 18px;
+                color: #333;
+            }
+
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: lightskyblue;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .row {
+            margin-top: 20px;
+        }
+
+        .btn {
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+
+        footer {
+            background-color: white; /* light gray background */
+            padding: 10px;
+            text-align: center;
+            color: #333;
+            border-top: 1px solid #ddd;
+        }
+
+            footer p {
+                margin-bottom: 10px;
+            }
+    </style>
+</head>
+<body>
+    <header class="bg-light text-center py-4">
+        <h1 class="display-4">@ViewBag.ApplicationName</h1>
+        <p class="lead">Your one-stop solution for managing all your pet's needs</p>
+        <p>Maximum pets allowed: @ViewBag.MaxPetsAllowed</p>
+    </header>
+
+    <div class="container mt-5 text-center">
+        <h2>Choose Your Role</h2>
+        <div class="row mt-4">
+            <div class="col-md-4">
+                <a class="btn btn-primary btn-lg" href="/Users/Login">Pet Owner</a>
+            </div>
+            <div class="col-md-4">
+                <a class="btn btn-primary btn-lg" href="/Users/Login">Admin</a>
+            </div>
+            <div class="col-md-4">
+                <a class="btn btn-primary btn-lg" href="/Users/Login">Vet</a>
+            </div>
+        </div>
+    </div>
+
+    <footer class="bg-light text-center py-3 mt-5">
+        <p>&copy; 2024 @ViewBag.ApplicationName. All Rights Reserved.</p>
+        <p>Contact us: info@petmanagementsystem.com</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>

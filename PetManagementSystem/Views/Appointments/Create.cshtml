@@ -1,0 +1,82 @@
+﻿@model PetManagementSystem.ViewModels.CreateAppointmentViewModel
+
+@{
+    ViewBag.Title = "Book Appointment";
+}
+
+<style>
+    body {
+        background-image: url('/images/vetg.jpg'); /* replace with your desired background image */
+        background-size: cover;
+        font-family: Arial, sans-serif;
+    }
+
+    h2 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    form {
+        max-width: 500px;
+        margin: 40px auto;
+        padding: 20px;
+        background-color: #87CEEB; /* blue form background */
+        border: 1px solid #ccc;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    label {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    select, input[type="datetime-local"] {
+        width: 100%;
+        height: 40px;
+        margin-bottom: 20px;
+        padding: 10px;
+        border: 1px solid #ccc;
+    }
+
+    button[type="submit"] {
+        width: 100%;
+        height: 40px;
+        background-color: darkblue;
+        color: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        button[type="submit"]:hover {
+            background-color: #3e8e41;
+        }
+</style>
+
+<h2>Book Appointment</h2>
+
+<form asp-controller="Appointments" asp-action="Create" method="post">
+    <div>
+        <label>Pet</label>
+        <select asp-for="PetId" asp-items="@(Model.Pets!= null? new SelectList(Model.Pets, "Id", "Name") : null)" required></select>
+    </div>
+    <div>
+        <label>Vet</label>
+        <select asp-for="UserID" asp-items="@(Model.Vets!= null? new SelectList(Model.Vets, "UserID", "FirstName") : null)" required></select>
+    </div>
+
+    <div>
+        <label>Reason for Visit</label>
+        <input type="text" name="dummyReason" />
+    </div>
+
+
+  
+    <div>
+        <label>Appointment Date</label>
+        <input asp-for="AppointmentDate" required type="datetime-local" />
+    </div>
+    <button type="submit">Book</button>
+</form>

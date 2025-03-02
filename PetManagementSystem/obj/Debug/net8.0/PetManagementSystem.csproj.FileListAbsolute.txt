@@ -1,0 +1,686 @@
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.csproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.AssemblyInfoInputs.cache
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.AssemblyInfo.cs
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.RazorAssemblyInfo.cache
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.RazorAssemblyInfo.cs
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.staticwebassets.runtime.json
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.exe
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.deps.json
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.runtimeconfig.json
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.pdb
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.PetManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.PetManagementSystem.props
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetManagementSystem.props
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetManagementSystem.props
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\bundle\PetManagementSystem.styles.css
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\PetManagementSystem.bundle.scp.css
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManag.5741D8C7.Up2Date
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\refint\PetManagementSystem.dll
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.pdb
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.genruntimeconfig.cache
+C:\Users\PMLS\source\repos\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\ref\PetManagementSystem.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\appsettings.json
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.staticwebassets.runtime.json
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.exe
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.deps.json
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.runtimeconfig.json
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.pdb
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Humanizer.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.csproj.AssemblyReference.cache
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.AssemblyInfoInputs.cache
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.AssemblyInfo.cs
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.csproj.CoreCompileInputs.cache
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.RazorAssemblyInfo.cache
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.RazorAssemblyInfo.cs
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.PetManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.PetManagementSystem.props
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetManagementSystem.props
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetManagementSystem.props
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\bundle\PetManagementSystem.styles.css
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\PetManagementSystem.bundle.scp.css
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManag.5741D8C7.Up2Date
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\refint\PetManagementSystem.dll
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.pdb
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.genruntimeconfig.cache
+D:\DOCS\STUDY NOODLE SOUP\Uni study stuff\season 4\asses\SDA & DBMS LAB PROJECT\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\ref\PetManagementSystem.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.staticwebassets.runtime.json
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.exe
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.deps.json
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.runtimeconfig.json
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.pdb
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.csproj.AssemblyReference.cache
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.AssemblyInfoInputs.cache
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.AssemblyInfo.cs
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.RazorAssemblyInfo.cache
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.RazorAssemblyInfo.cs
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.PetManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.PetManagementSystem.props
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetManagementSystem.props
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetManagementSystem.props
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\bundle\PetManagementSystem.styles.css
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\PetManagementSystem.bundle.scp.css
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManag.5741D8C7.Up2Date
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\refint\PetManagementSystem.dll
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.pdb
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.genruntimeconfig.cache
+C:\Users\shahe\OneDrive\Desktop\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\ref\PetManagementSystem.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\appsettings.json
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.staticwebassets.runtime.json
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.exe
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.deps.json
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.runtimeconfig.json
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.pdb
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Humanizer.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.csproj.AssemblyReference.cache
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.AssemblyInfoInputs.cache
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.AssemblyInfo.cs
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.csproj.CoreCompileInputs.cache
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.RazorAssemblyInfo.cache
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.RazorAssemblyInfo.cs
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.PetManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.PetManagementSystem.props
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetManagementSystem.props
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetManagementSystem.props
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\bundle\PetManagementSystem.styles.css
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\PetManagementSystem.bundle.scp.css
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManag.5741D8C7.Up2Date
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\refint\PetManagementSystem.dll
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.pdb
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.genruntimeconfig.cache
+E:\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\ref\PetManagementSystem.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.staticwebassets.runtime.json
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.exe
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.deps.json
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.runtimeconfig.json
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\PetManagementSystem.pdb
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.PetManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.PetManagementSystem.props
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetManagementSystem.props
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetManagementSystem.props
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\bundle\PetManagementSystem.styles.css
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\PetManagementSystem.bundle.scp.css
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManag.5741D8C7.Up2Date
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\refint\PetManagementSystem.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.pdb
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\PetManagementSystem.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\obj\Debug\net8.0\ref\PetManagementSystem.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\RazorEngine.NetCore.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\PetManagementSystem\bin\Debug\net8.0\WebDriver.dll

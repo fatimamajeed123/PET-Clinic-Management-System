@@ -1,0 +1,31 @@
+﻿@model IEnumerable<PetManagementSystem.Models.Appointment>
+
+@{
+    ViewBag.Title = "Approved Appointments";
+}
+
+<h2>Approved Appointments</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Pet</th>
+            <th>Owner</th>
+            <th>Appointment Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appointment in Model)
+        {
+            <tr>
+                <td>@appointment.Pet.Name</td>
+                <td>@appointment.User.FirstName</td>
+                <td>@appointment.AppointmentDate</td>
+                <td>
+                    <a asp-controller="Prescriptions" asp-action="Create" asp-route-appointmentId="@appointment.AppointmentId" class="btn btn-primary">Give Prescription</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

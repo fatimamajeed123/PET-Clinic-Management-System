@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\bin\Debug\Logitestcase.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\bin\Debug\Logitestcase.pdb
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\obj\Debug\Logitestcase.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\obj\Debug\Logitestcase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\obj\Debug\Logitest.5663E9DD.Up2Date
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\obj\Debug\Logitestcase.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\Logitestcase\obj\Debug\Logitestcase.pdb

@@ -1,0 +1,92 @@
+﻿@model IEnumerable<PetManagementSystem.Models.Users>
+
+@{
+    ViewBag.Title = "Vets List";
+}
+<style>
+    body {
+        background-image: url('/images/vetbg.jpg'); /* replace with your desired background image */
+        background-size: cover;
+        font-family: Arial, sans-serif;
+    }
+
+    h2 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 24px;
+        font-weight: bold;
+        background-color: #f0f0f0;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .table {
+        width: 100%;
+        margin: 40px auto;
+        border-collapse: collapse;
+        background-color: #fff; /* make the table background white */
+        border: 1px solid #ddd;
+        border-radius: 10px; /* add rounded edges to the table */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+        font-size: 16px; /* increase font size */
+        font-weight: bold; /* make the font bold */
+    }
+
+    th {
+        background-color: #f0f0f0;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .btn {
+        margin: 10px;
+        font-size: 14px; /* decrease font size of the buttons */
+        padding: 5px 10px; /* add some padding to the buttons */
+        border-radius: 5px; /* add rounded edges to the buttons */
+    }
+
+    .centered {
+        display: flex;
+        justify-content: center;
+    }</style>
+
+
+<h2 class="centered">Vets List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>User ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Phone No</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var vet in Model)
+        {
+            <tr>
+                <td>@vet.UserID</td>
+                <td>@vet.FirstName</td>
+                <td>@vet.LastName</td>
+                <td>@vet.Email</td>
+                <td>@vet.PhoneNo</td>
+                <td>
+                    <a asp-controller="Users" asp-action="EditVet" asp-route-id="@vet.UserID" class="btn btn-primary">Edit</a>
+                    <a asp-controller="Users" asp-action="DeleteUser" asp-route-id="@vet.UserID" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this user?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

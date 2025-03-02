@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\bin\Debug\netcoreapp2.1\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\bin\Debug\netcoreapp2.1\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\bin\Debug\netcoreapp2.1\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\bin\Debug\netcoreapp2.1\unittest.deps.json
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\bin\Debug\netcoreapp2.1\unittest.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\bin\Debug\netcoreapp2.1\unittest.pdb
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\obj\Debug\netcoreapp2.1\unittest.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\obj\Debug\netcoreapp2.1\unittest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\obj\Debug\netcoreapp2.1\unittest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\obj\Debug\netcoreapp2.1\unittest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\obj\Debug\netcoreapp2.1\unittest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\obj\Debug\netcoreapp2.1\unittest.dll
+C:\Users\Administrator\source\repos\project finale\PetManagementSystem\unittest\obj\Debug\netcoreapp2.1\unittest.pdb
