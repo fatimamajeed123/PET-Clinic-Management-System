@@ -10,3 +10,4 @@ PCMS is a web-based system built with ASP.NET MVC and SQL Server to streamline v
 Frontend: HTML, CSS, Bootstrap, JavaScript
 Backend: ASP.NET MVC, C#
 Database: SQL Server
+![image](https://github.com/user-attachments/assets/725115e5-9fe6-4813-bc34-0dc8323a5d18)
